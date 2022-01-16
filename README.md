@@ -1,3 +1,2 @@
 # C_Practice
-Uni of Bath, CS, weekly exercise
-Week1-week3 C
+Uni of Bath_CS weekly_exercise
